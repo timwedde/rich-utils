@@ -1,1 +1,1 @@
-from .progress import TQDMProgress, ItemsPerSecondColumn, SmartTimeRemainingColumn  # noqa: F401
+from .progress import GenericProgress, ItemsPerSecondColumn, SmartTimeRemainingColumn  # noqa: F401
