@@ -97,7 +97,7 @@ description = "Render rich text, tables, progress bars, syntax highlighting, mar
 name = "rich"
 optional = false
 python-versions = ">=3.6,<4.0"
-version = "5.2.1"
+version = "6.1.1"
 
 [package.dependencies]
 colorama = ">=0.4.0,<0.5.0"
@@ -118,7 +118,7 @@ description = "Backported and Experimental Type Hints for Python 3.5+"
 name = "typing-extensions"
 optional = false
 python-versions = "*"
-version = "3.7.4.2"
+version = "3.7.4.3"
 
 [[package]]
 category = "dev"
@@ -134,7 +134,7 @@ docs = ["sphinx", "jaraco.packaging (>=3.2)", "rst.linker (>=1.9)"]
 testing = ["jaraco.itertools", "func-timeout"]
 
 [metadata]
-content-hash = "40188287e0ff33136caec4d9c87c197e172e5a59bd1e1df78df28ecc5eda073b"
+content-hash = "39e9a26c74357cd3391176e5478f7183d351580a495d70abba02e692af6fbc16"
 lock-version = "1.0"
 python-versions = "^3.6"
 
@@ -176,13 +176,13 @@ pygments = [
     {file = "Pygments-2.6.1.tar.gz", hash = "sha256:647344a061c249a3b74e230c739f434d7ea4d8b1d5f3721bc0f3558049b38f44"},
 ]
 rich = [
-    {file = "rich-5.2.1-py3-none-any.whl", hash = "sha256:a3c9332f47ca9469e523349fedb132b5b319ab14c2f9e74df87832add28be311"},
-    {file = "rich-5.2.1.tar.gz", hash = "sha256:d791263dc505b635b75249dfc1991510d7eabb27047652e3209e98384365c9c9"},
+    {file = "rich-6.1.1-py3-none-any.whl", hash = "sha256:38d1cdef534309b937f046c9f84f2a3ac9e8d5723d3f1238362ba82d8c9636f8"},
+    {file = "rich-6.1.1.tar.gz", hash = "sha256:fc96642323fecec140c919850172dcaf52c111b3abfd3588a09a63120c0a98c6"},
 ]
 typing-extensions = [
-    {file = "typing_extensions-3.7.4.2-py2-none-any.whl", hash = "sha256:f8d2bd89d25bc39dabe7d23df520442fa1d8969b82544370e03d88b5a591c392"},
-    {file = "typing_extensions-3.7.4.2-py3-none-any.whl", hash = "sha256:6e95524d8a547a91e08f404ae485bbb71962de46967e1b71a0cb89af24e761c5"},
-    {file = "typing_extensions-3.7.4.2.tar.gz", hash = "sha256:79ee589a3caca649a9bfd2a8de4709837400dfa00b6cc81962a1e6a1815969ae"},
+    {file = "typing_extensions-3.7.4.3-py2-none-any.whl", hash = "sha256:dafc7639cde7f1b6e1acc0f457842a83e722ccca8eef5270af2d74792619a89f"},
+    {file = "typing_extensions-3.7.4.3-py3-none-any.whl", hash = "sha256:7cb407020f00f7bfc3cb3e7881628838e69d8f3fcab2f64742a5e76b2f841918"},
+    {file = "typing_extensions-3.7.4.3.tar.gz", hash = "sha256:99d4073b617d30288f569d3f13d2bd7548c3a7e4c8de87db09a9d29bb3a4a60c"},
 ]
 zipp = [
     {file = "zipp-3.1.0-py3-none-any.whl", hash = "sha256:aa36550ff0c0b7ef7fa639055d797116ee891440eac1a56f378e2d3179e0320b"},
