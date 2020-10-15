@@ -4,10 +4,11 @@ version = "0.2.0"
 description = "Utility methods and classes for the \"rich\" package."
 authors = ["Tim Wedde <timwedde@icloud.com>"]
 license = "MIT"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.6"
-rich = "^6.1.1"
+rich = "^8.0.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.8.3"
