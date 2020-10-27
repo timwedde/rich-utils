@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "rich-utils"
-version = "0.3.0"
+version = "0.4.0"
 description = "Utility methods and classes for the \"rich\" package."
 authors = ["Tim Wedde <timwedde@icloud.com>"]
 license = "MIT"
